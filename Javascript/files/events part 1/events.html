@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>events</title>
+
+    <link rel="stylesheet" href="dom.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        .comic-relief-regular {
+            font-family: "Comic Relief", system-ui;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .comic-relief-bold {
+            font-family: "Comic Relief", system-ui;
+            font-weight: 700;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'Comic Relief';
+        }
+
+        button {
+            font-family: "Comic Relief";
+            font-size: 15px;
+            background-color: rgb(255, 255, 255);
+        }
+
+        p {
+            font-size: 17px;
+        }
+    </style>
+
+    <!-- <script src="95 events intro.js" defer></script> -->
+    <!-- <script src="96 this in eventListener.js" defer></script> -->
+    <!-- <script src="97 multiple button events.js" defer></script> -->
+    <!-- <script src="98 event object.js" defer></script> -->
+    <!-- <script src="99 events working.js" defer></script> -->
+    <!-- <script src="100 events practice.js" defer></script> -->
+    <script src="101 keypress, mouseover events.js" defer></script>
+
+</head>
+
+<body>
+    <span>
+        <button onclick="console.log('you clicked me!')">Click me</button>
+    </span>
+    <br> <br>
+    <span>
+        <button class="btn1">click me too...</button>
+    </span>
+    <br> <br>
+    <button class="btn2">reload</button>
+    <br> <br>
+    <button class="btn3">login</button>
+
+    <p>Some new buttons on our webpage</p>
+
+    <div class="button-collection">
+        <button id="b1">button 1</button> <br><br>
+        <button id="b2">button 2</button> <br><br>
+        <button id="b3">button 3</button>
+    </div>
+
+    <p>buttons to study event objects</p>
+
+    <div class="functional-buttons">
+        <button id="fbtn1">save</button> <br><br>
+        <button id="fbtn2">copy</button> <br><br>
+        <button id="fbtn3">download</button>
+    </div>
+
+    <p>Change background color with this button</p>
+    <button id="color-btn">Change color</button>
+
+    <p>hover over this button</p>
+    <button id="hover-btn">Hover me</button>
+
+</body>
+
+</html>
