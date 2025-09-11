@@ -6,9 +6,17 @@ import (
 	"golang/datatypes"
 	"golang/hello_world"
 	"golang/maps"
+	"golang/nil_Pointers"
 	"golang/slice"
 	"golang/strings"
-	"golang/nil_Pointers"
+	"golang/flowControl"
+	"golang/goTypes"
+	"golang/file_io"
+	"golang/gofunctions"
+	"golang/closure"
+	"golang/advance_slice"
+	"golang/structs"
+	"golang/regex"
 )
 
 var x = [...]int{1,2,3}
@@ -40,4 +48,38 @@ func main() {
 	maps.Index()
 
 	nil_Pointers.Nil()
+	fmt.Println("\n\n ")
+	nil_Pointers.ReadFile()
+
+	flowControl.IfElse()
+	flowControl.ForLoop()
+	flowControl.Traversing()
+	flowControl.Break()
+	flowControl.Label()
+	flowControl.Switch()
+
+	goTypes.StructuralTyping()
+	goTypes.NamedTyping()
+
+	file_io.Formatting()
+	file_io.FileIO()
+
+	gofunctions.Func()
+	gofunctions.Pointer()
+
+	myVal := closure.Counter()
+	fmt.Println(myVal())
+	fmt.Println(myVal())
+	fmt.Println(myVal())
+
+	closure.Example()
+
+	advance_slice.AdvSlice()
+	advance_slice.LenCap()
+
+	structs.Struct()
+	structs.PassingStruct()
+	structs.Tags()
+
+	regex.Regex()
 }
