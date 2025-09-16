@@ -23,3 +23,6 @@
 |📒 Files          |[here](Golang/files)       |
 |⚡️ Fundamentals   |[here](Golang/fundamentals)|
 |🔗 Resources      |[here](Golang/RESOURCES.md)|
+
+
+Readme style inspiration : Pradumna Saraf
