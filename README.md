@@ -1,6 +1,6 @@
-<h1 align="center">Learnings</h1>
+<h1 align="center">Code Odyssey 🏝️</h1>
 
-<p align="center">This repository contains my learnings, notes, code snippets, articles & resources which I explore and gain knowledge about and open for anyone looking for quick insights</p>
+<p align="center">The most lovely corner of internet that contains a growing collection of my tech journey ⭐️ <br> Someday I'll look back and smile at how far I've come :)</p>
 
 <h2>Javascript</h2>
 <img width="100" height="100" alt="javascript" align="right" src="https://github.com/user-attachments/assets/f31c8ee2-16c6-4004-a84f-ed7c263defd8" />
@@ -25,4 +25,3 @@
 |🔗 Resources      |[here](Golang/RESOURCES.md)|
 
 
-Readme style inspiration : Pradumna Saraf
