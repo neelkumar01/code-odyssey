@@ -21,7 +21,6 @@
 <li>if_init <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/02-variables/9-if_init/code.go">here</a></li>
 
 ### Functions
-
 <li>Making functions <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/03-functions/1-making_functions/code.go">here</a></li>
 <li>Multiple parameters <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/03-functions/2-multiple_parameters/code.go">here</a></li>
 <li>Pass by value <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/03-functions/3-pass_by_value/code.go">here</a></li>
@@ -30,3 +29,10 @@
 <li>Explicit return <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/03-functions/6-explicit_return/code.go">here</a></li>
 <li>Named return example <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/03-functions/7-named_return_example/code.go">here</a></li>
 <li>Early returns <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/03-functions/8-early_returns/code.go">here</a></li>
+
+### Structs
+<li>Intro<a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/04-structs/1-intro/code.go"> here</a></li>
+<li>Nested structs<a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/04-structs/2-nested_structs/code.go"> here</a></li>
+<li>Anonymous structs<a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/04-structs/3-anonymous_struct/code.go"> here</a></li>
+<li>Embedded structs<a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/04-structs/4-embedded_struct/code.go"> here</a></li>
+<li>Methods<a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/files/04-structs/5-methods/code.go"> here</a></li>
