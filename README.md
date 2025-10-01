@@ -16,3 +16,4 @@
 <li>Practice files with all code <a href="https://github.com/neelkumar01/code-odyssey/tree/main/Golang/files">here</a></li>
 <li>Topics covered <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/README.md">here</a></li>
 <li>Golang course by Lane Wagner from freecodecamp <a href="https://youtu.be/un6ZyFkqFKo?si=PX0O8PiBWLX0Q9I-">link</a></li>
+<li>Advanced concepts in golang by Matt Kodbv <a href="https://github.com/matt4biz/go-class-slides/blob/trunk/xmas-2020/README.md">link</a></li>
