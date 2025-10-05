@@ -17,3 +17,9 @@
 <li>Topics covered <a href="https://github.com/neelkumar01/code-odyssey/blob/main/Golang/README.md">here</a></li>
 <li>Golang course by Lane Wagner from freecodecamp <a href="https://youtu.be/un6ZyFkqFKo?si=PX0O8PiBWLX0Q9I-">link</a></li>
 <li>Advanced concepts in golang by Matt Holiday <a href="https://github.com/matt4biz/go-class-slides/blob/trunk/xmas-2020/README.md">link</a></li>
+
+<br>
+<h2>Git <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/74aff18d-e9b3-4f7f-922f-5b2db8f2c22f" />
+ and Github <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1a452767-ab98-4839-ac97-130e30bdb1fa" />
+</h2>
+<li>Important concepts and git commands <a href="https://github.com/neelkumar01/code-odyssey/tree/main/git">here</a></li>
