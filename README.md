@@ -23,3 +23,8 @@
  and Github <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1a452767-ab98-4839-ac97-130e30bdb1fa" />
 </h2>
 <li>Important concepts and git commands <a href="https://github.com/neelkumar01/code-odyssey/tree/main/git">here</a></li>
+
+<br>
+<h2>Linux <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/97810118-3a39-490b-802f-c1c77208ff67" />
+</h2> 
+<li>Brief about linux os and some useful commands <a href="https://github.com/neelkumar01/code-odyssey/tree/main/linux">here</a></li>
