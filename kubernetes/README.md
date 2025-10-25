@@ -59,7 +59,7 @@ CNI - computer network interface
 - allow pods to connect to network
 - so that pods can talk to each other
 
-![image.png](attachment:5a4fabd0-e20a-4bb0-9299-d84ae29c011f:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-1.png">
 
 Check docker is running or not
 
@@ -132,8 +132,6 @@ In terminal,
 ```bash
 kind create cluster --name=neel-cluster --config=config.yml
 ```
-
-![image.png](attachment:f2647916-39b3-41e0-ae5f-738499a6a5dd:image.png)
 
 To check all nodes
 
@@ -774,7 +772,7 @@ kubectl get cronjob -n nginx
 
 ### Storage
 
-![image.png](attachment:8d2cc940-0554-45d7-8db5-d812bf8d6cf5:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-2.png">
 
 - in servers lot if pods are running
 - if one of the pod gets deleted, then whole data along with it also deletes
@@ -985,9 +983,9 @@ now run the service
 kubectl port-forward svc/nginx-service 8080:80 -n nginx
 ```
 
-![image.png](attachment:7ed981c7-7eda-4ffe-bfee-9922d5cf37bc:a5afdfdb-6c5c-402c-88c4-228a7e98b96e.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-31.png">
 
-![image.png](attachment:ad38d2f5-2701-4ca2-a5c1-4598c5a7d47e:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-32.png">
 
 - `kubectl` → tool to talk to your Kubernetes cluster
 - `port-forward` → make a tunnel from your computer to the cluster.
@@ -1001,7 +999,7 @@ kubectl port-forward svc/nginx-service 8080:80 -n nginx
 
 Create a basic website with html, css, js
 
-![image.png](attachment:ee4c8c57-2ee5-49c7-a68b-244a6e2f6687:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-4.png">
 
 creating a docker image for web app
 
@@ -1139,13 +1137,13 @@ web-app-deployment-dd46b4854-bfk9f   1/1     Running   0          80s
 kubectl port-forward service/web-app-service -n web-app 8000:8000 -n web-app
 ```
 
-![image.png](attachment:6f45d025-0288-4231-9e9b-53dd2e621b14:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-5.png">
 
 ### Ingress
 
 This is used for rerouting services
 
-![image.png](attachment:47a190b1-fa66-49d3-a629-1df1c846636d:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-6.png">
 
 - to use this, we need to remove web-app deployment and services from namespace web-app and put both into nginx namespace
 - with this, both our services of nginx and web-app will run in same namespace
@@ -1234,11 +1232,11 @@ Whenever you see `/app`, send it to `/` instead.
 
 for /app
 
-![image.png](attachment:449bd560-02c0-4b20-9978-e5aff2588bcb:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-7.png">
 
 for /nginx
 
-![image.png](attachment:dcd2e2d6-3fb6-4a11-a834-19f231c98d64:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-8.png">
 
 ### Stateful Sets
 
@@ -1495,7 +1493,7 @@ similarly make changes in statefulset.yml
 
 ### Resource quotas
 
-![image.png](attachment:2deff8ba-39f6-4c42-8e84-a469f954318a:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-9.png">
 
 - we have 1 pod of nginx and 1 pod of mysql
 - if traffic came on nginx pod and it consumes all 4Gi space, nothing lefts for mysql pod
@@ -2023,7 +2021,7 @@ With RBAC, you can:
 - Create developer/admin/operator roles
 - Protect critical resources
 
-![image.png](attachment:5e312af5-a2bc-4b52-a2c0-cd169121d94c:image.png)
+<img src="https://cdn.jsdelivr.net/gh/neelkumar01/code-odyssey@latest/kubernetes/kube-assets/visual-10.png">
 
 1. service account
 - it is kubernetes managed account
