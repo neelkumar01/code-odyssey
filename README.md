@@ -28,3 +28,8 @@
 <h2>Linux <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/97810118-3a39-490b-802f-c1c77208ff67" />
 </h2> 
 <li>Brief about linux os and some useful commands <a href="https://github.com/neelkumar01/code-odyssey/tree/main/linux">here</a></li>
+
+<br>
+<h2>Kubernetes <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/de944b12-84fd-4480-aad3-481d32b39da5" /></h2>
+<li>My personal notes on k8s <a href="https://github.com/neelkumar01/code-odyssey/tree/main/kubernetes">here</a></li>
+
