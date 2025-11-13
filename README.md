@@ -31,5 +31,5 @@
 
 <br>
 <h2>Kubernetes <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/de944b12-84fd-4480-aad3-481d32b39da5" /></h2>
-<li>My personal notes on k8s <a href="https://github.com/neelkumar01/code-odyssey/tree/main/kubernetes">here</a></li>
+<li>My k8s learning journey <a href="">here</a></li>
 
