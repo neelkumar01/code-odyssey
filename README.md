@@ -1,4 +1,4 @@
-<h1 align="center">Code Odyssey 🏝️</h1>
+<h1 align="center">Code Odyssey 🧿</h1>
 
 <p align="center">The most lovely corner of internet that contains a growing collection of my tech journey ⭐️ <br> Little things make big things happen ⚡️</p>
 
