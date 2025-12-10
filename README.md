@@ -20,5 +20,5 @@
 <br>
 <h2>Python <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/94fbc58d-e9d5-47b7-8312-5786bda4a264" />
 </h2> 
-<li>Python files <a href="https://github.com/neelkumar01/code-odyssey/tree/main/linux">here</a></li>
+<li>Python files <a href="https://github.com/neelkumar01/code-odyssey/tree/main/python">here</a></li>
 
